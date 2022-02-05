@@ -23,6 +23,10 @@
 <br />
 <br />
 
+### ![Anim Shihab](https://github-readme-stats.vercel.app/api/top-langs?username=animpika&show_icons=true&locale=en&layout=compact)
+### ![Anim Shihab](https://github-readme-stats.vercel.app/api?username=animpika&show_icons=true&locale=en)
+### ![Anim Shihab](https://github-readme-streak-stats.herokuapp.com/?user=animpika&)
+
 
 
 
